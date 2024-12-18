@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\task26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15581077-E4F3-4EB8-AC8D-165F55553343}|task26\\task26.vcxproj|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\task26\\task26\\task26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15581077-E4F3-4EB8-AC8D-165F55553343}|task26\\task26.vcxproj|solutionrelative:task26\\task26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task26.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\task26\\task26\\task26.cpp",
+              "RelativeDocumentMoniker": "task26\\task26.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\task26\\task26\\task26.cpp",
+              "RelativeToolTip": "task26\\task26.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T14:52:01.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
